@@ -1,20 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+"en"
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  "UTF-8"
+ "width=device-width, initial-scale=1.0"
   <title>小满生日祝福</title>
-  <link rel="stylesheet" href="styles.css">
+  "stylesheet" href="styles.css"
 </head>
 <body>
   <!-- 背景音乐 -->
-  <audio id="background-music" autoplay loop>
-    <source src="yinyue.ncm" type="audio/mpeg">
+  "background-music" autoplay loop
+    "yinyue.ncm" type="audio/mpeg"
     Your browser does not support the audio element.
   </audio>
 
-  <div class="container">
-    <h1 class="greeting">Hiya, Brain</h1>
+  "container"
+  "greeting">Hiya, Brain</h1>
 {
   "greeting": "Hiya",
   "name": "Brain",
