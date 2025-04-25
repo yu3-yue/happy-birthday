@@ -5,16 +5,15 @@
  "width=device-width, initial-scale=1.0"
   <title>小满生日祝福</title>
   "stylesheet" href="styles.css"
-</head>
+/head
 <body>
-  <!-- 背景音乐 -->
+  !-- 背景音乐 --
   "background-music" autoplay loop
     "yinyue.ncm" type="audio/mpeg"
     Your browser does not support the audio element.
-  </audio>
+  /audio
 
-  "container"
-  "greeting">Hiya, Brain</h1>
+  
 {
   "greeting": "Hiya",
   "name": "Brain",
